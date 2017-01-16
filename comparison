@@ -1,0 +1,51 @@
+#coding : UTF-8
+gyo = "15"
+
+a = True
+b = False
+
+print a
+print b
+
+c = 5
+abn = 5
+
+d = c > 4
+print d
+
+e = c < 4
+print e
+
+f = c <= 5
+print f
+
+g = c >= 5
+print g
+
+h = c == abn
+print h
+
+i = c != 6
+print i
+
+
+j = "Hello"
+k = "Hello"
+l = j == k
+print l
+
+print "check"
+
+m = "Hi"
+n = m == j
+print n
+
+ab = "HelloWold"
+ad = ab[0:5]
+print ad
+
+kk = ad == k
+print kk
+
+
+

@@ -1,0 +1,15 @@
+class Dog:
+    name = ""
+    def bark(self): #method
+        m = self.name + ": Bow-wow!"
+        print m
+
+pochi = Dog() #some instance in to Dog
+pochi.name = "Pochi"
+pochi.bark()
+#Can write "function" and " propathy
+
+hachi = Dog()
+hachi.name ="hachi"
+hachi.bark()
+

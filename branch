@@ -1,0 +1,23 @@
+a = 5
+
+if a == 5:
+    print "Hello!"
+else:
+    print"Hai!"
+
+b = 6
+if b < 3:
+    print"Hello"
+elif b < 5:
+    print"Hai"
+else:
+    print"Year!"
+
+score = 5
+
+if score > 0 and score < 3:
+    print "not good"
+elif score >=3 and score <= 6 :
+    print "good"
+else:
+    print "very good"

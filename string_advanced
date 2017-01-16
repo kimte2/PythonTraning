@@ -1,0 +1,8 @@
+a = "Hello world"
+
+b = a.replace("l","Good Morning")
+print b
+print a
+
+c = a[1:8]
+print c
